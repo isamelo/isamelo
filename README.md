@@ -25,11 +25,8 @@
 #### Aperfeiçoando 
 <div align="center" style="display: inline_block">
   <div align="center" style="display: inline_block"> 
-    <img align="center" alt="logo do Redux" height="30" width="75" src="https://img.shields.io/badge/redux-7649bb?style=for-the-badge&logo=redux&logoColor=white">
     <img align="center" alt="logo do Typescript" height="30" width="75" src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="logo do styled components" height="30" width="75" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-    <img align="center" alt="logo do Node" height="30" width="75" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">  
-    <img align="center" alt="logo do Express" height="30" width="75" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img align="center" alt="logo do styled components" height="30" width="75" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">  
   </div>
   
   <div align="center" style="display: inline_block"> 
