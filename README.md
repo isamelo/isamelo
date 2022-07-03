@@ -1,62 +1,41 @@
-### Escrevendo código tomando café, ouvindo música e pedindo comida.
-<div align="center">
-  <img alt="logo do Starbucks" height="35" width="90" src="https://img.shields.io/badge/starbucks-007042?style=for-the-badge&logo=starbucks&logoColor=white"> <img alt="logo do spotify" height="35" width="80" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> <img alt="logo do iFood" height="35" width="80" src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white">
-</div>
+### Hi! 👋
+
+#### I'm a Software Engineer working in São Paulo, Brazil.
   
 ---
 
 <div align="center">
-  <img alt="quadro de estatísticas desse perfil"  height="180em" src="https://github-readme-stats.vercel.app/api?username=Twany93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img alt="quadro de linguagens mais usadas desse perfil"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamelo&layout=compact&langs_count=7&theme=dracula">
+  <img alt="quadro de estatísticas desse perfil"  height="140em" src="https://github-readme-stats.vercel.app/api?username=isamelo&show_icons=true&&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,contribs">
+  <img alt="quadro de linguagens mais usadas desse perfil" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamelo&layout=compact&langs_count=7&theme=tokyonight">
 </div>
   
 ---
 
-#### Habilidades 
+#### Technologies & Tools 
 <div align="center" style="display: inline_block">
-  <img align="center" alt="logo do HTML" height="30" width="75" src="https://img.shields.io/badge/html5-f16529?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="logo do CSS" height="30" width="75" src="https://img.shields.io/badge/css3-0096dc?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="logo do Javascript" height="30" width="75" src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white">
-  <img align="center" alt="logo do React" height="30" width="75" src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=white"> 
+  <img align="center" alt="logo do Java" height="30" width="75" src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java">
+  <img align="center" alt="logo do Python" height="30" width="75" src="https://img.shields.io/badge/-Python-8fcfd1?style=for-the-badge&logo=Python">
+  <img align="center" alt="logo do AWS" height="30" width="75" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws">
+  <img align="center" alt="logo do GIT" height="30" width="75" src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab">
+  <img align="center" alt="logo do Postman" height="30" width="75" src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman"> 
+  <img align="center" alt="logo do GIT" height="30" width="75" src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff"> 
+
 </div>
   
 ---
 
-#### Aperfeiçoando 
-<div align="center" style="display: inline_block">
-  <div align="center" style="display: inline_block"> 
-    <img align="center" alt="logo do Typescript" height="30" width="75" src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="logo do styled components" height="30" width="75" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">  
-  </div>
-  
-  <div align="center" style="display: inline_block"> 
-    <img align="center" alt="logo do MySQL" height="30" width="75" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img align="center" alt="isamelo-MongoDB" height="30" width="75" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> 
-    <img align="center" alt="isamelo-SQLite" height="30" width="75" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"> 
-    <img align="center" alt="isamelo-Netlify" height="30" width="75" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> 
-    <img align="center" alt="isamelo-Heroku" height="30" width="75" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  </div>
-</div>
 
----
-
-#### Registrando a trajetória   
+#### Contatos   
 <div align="center">  
-  <a href="https://linktree.com/isamelo" target="_blank"><img src="https://img.shields.io/badge/-linktree-green?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
-  <a href="https://isamelo.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isamelo" target="_blank"><img src="https://img.shields.io/badge/-linkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/isabel-melo-80666634/" target="_blank"><img src="https://img.shields.io/badge/-linkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@isabel_melo" target="_blank"><img src="https://img.shields.io/badge/-medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href = "mailto:isabel.melo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ---
 
-#### Redes Sociais   
-<div align="center">  
-  <a href="https://instagram.com/isamelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/isamelo#8625" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/isamelo" target="_blank"><img src="https://img.shields.io/badge/-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:isamelo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-  
+### Na jornada do conhecimento!
+
 ---
 
 #### Nessa empolgação 
