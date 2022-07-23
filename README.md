@@ -5,8 +5,8 @@
 ---
 
 <div align="center">
-  <img alt="quadro de estatísticas desse perfil"  height="140em" src="https://github-readme-stats.vercel.app/api?username=isamelo&show_icons=true&&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars,contribs">
-  <img alt="quadro de linguagens mais usadas desse perfil" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamelo&layout=compact&langs_count=7&theme=tokyonight">
+  <img alt="quadro de estatísticas desse perfil"  height="140em" src="https://github-readme-stats.vercel.app/api?username=isamelo&show_icons=true&&layout=compact&theme=dark&include_all_commits=true&count_private=true&hide=stars,contribs">
+  <img alt="quadro de linguagens mais usadas desse perfil" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamelo&layout=compact&langs_count=7&theme=dark">
 </div>
   
 ---
