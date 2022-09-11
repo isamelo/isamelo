@@ -37,10 +37,14 @@
 ### Na jornada do conhecimento!
 
 ---
+<div align="center" style="display: inline_block">
 
-#### Nessa empolgação 
 <div> 
-  
-  ![Snake animation](https://github.com/isamelo/isamelo/blob/output/github-contribution-grid-snake.svg)
- 
+
+#### Nessa empolgação
+
+![Snake animation](https://github.com/isamelo/isamelo/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 </div>
